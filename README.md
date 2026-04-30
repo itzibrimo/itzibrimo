@@ -68,16 +68,6 @@ I'm a Computer Science student passionate about building clean, functional mobil
 
 ---
 
-## 📚 Currently Learning
-
-- 🔄 **State Management** — Provider, Riverpod, and BLoC pattern
-- 🏛️ **Clean Architecture** in Flutter apps
-- 🔥 **Firebase** — Auth, Firestore, and Cloud Functions
-- 🌐 **REST API integration** with Flutter
-- 🍎 **iOS deployment** via cloud build tools
-
----
-
 ## 🎯 Developer Goals
 
 - [ ] Ship 3 polished Flutter apps to the Play Store by end of year
