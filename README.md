@@ -93,7 +93,7 @@ I'm a Computer Science student passionate about building clean, functional mobil
 I'm open to internship opportunities, collaborations, and project feedback.
 
 - 📧 **Email:** ibrahim.sbouai@isimg.tn
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](www.linkedin.com/in/ibrahim-sbouai-78ba8a365)
+- 💼 **LinkedIn:** www.linkedin.com/in/ibrahim-sbouai-78ba8a365
 
 ---
 
