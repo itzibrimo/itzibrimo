@@ -79,8 +79,8 @@ Here are some areas I work on:
 
 ## 📫 Contact
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: (add your link)
+* GitHub: https://github.com/itzibrimo
+* LinkedIn: www.linkedin.com/in/ibrahim-sbouai-78ba8a365
 
 ---
 
