@@ -1,94 +1,87 @@
-<div align="center">
+# 👋 Hi, I'm Ibrahim
 
-# Hi there, I'm [Your Name] 👋
-
-### Flutter Developer · Mobile App Enthusiast · CS Student
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github)](https://github.com/your-username)
-
-</div>
+🎓 Computer Engineering Student
+📡 Specializing in **Embedded Systems & IoT**
+💻 Software Developer (Full-Stack & Systems)
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Computer Science student passionate about building clean, functional mobile applications. I focus on Flutter development and enjoy turning real student and everyday problems into polished apps.
+I am an engineering student in **Computer Systems** with a focus on **Embedded Systems & IoT**.
+My work spans across **software development, system-level programming, and connected systems**.
 
-- 🎓 CS / Engineering student at **ISIMG**
-- 📱 Building **Flutter** mobile apps for Android (and soon iOS)
-- 💡 I enjoy creating tools that solve real, everyday problems
-- 🛠️ Currently sharpening my skills in **state management** and **clean architecture**
-- 🌍 Based in **Tunisia**
+I aim to design and build **efficient, scalable, and real-world technical solutions** by combining:
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
-**Platforms**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+* Software engineering
+* System architecture
+* Embedded and IoT technologies
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### 📊 [MaMoyenne ISIMG](https://github.com/your-username/ma-moyenne-isimg)
-> A Flutter app for ISIMG students to calculate their academic averages instantly.
+### 💻 Programming
 
-- 🎯 Supports multiple study tracks (*filières*) with weighted subject coefficients
-- ⚡ Real-time average calculation as grades are entered
-- 📱 Clean, minimalist UI focused on speed and simplicity
-- 🔒 Fully offline — no internet required
+* **Java**
+* **C / C++**
+* **Python (basic)**
 
-`Flutter` `Dart` `Material Design`
+### 🌐 Software Development
 
----
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** APIs, basic server-side development
 
-> 💬 More projects coming soon. I'm actively building and learning.
+### ⚙️ Systems & Embedded
 
----
+* Microcontrollers (STM32, Arduino)
+* Serial communication (UART, basic protocols)
+* Embedded programming concepts
 
-## 🎯 Developer Goals
+### 🧰 Tools & Environment
 
-- [ ] Ship 3 polished Flutter apps to the Play Store by end of year
-- [ ] Contribute to an open-source Flutter package
-- [ ] Land my first internship / junior mobile developer role
-- [ ] Build a full-stack app integrating Flutter with a backend API
-- [ ] Earn the Flutter & Dart certification
-
----
-
-## 📬 Let's Connect
-
-I'm open to internship opportunities, collaborations, and project feedback.
-
-- 📧 **Email:** ibrahim.sbouai@isimg.tn
-- 💼 **LinkedIn:** www.linkedin.com/in/ibrahim-sbouai-78ba8a365
+* Git & GitHub
+* VS Code
+* Linux basics
 
 ---
 
-<div align="center">
+## 📂 Projects
 
-_"Code is not just instructions for machines — it's a solution for people."_
+Here are some areas I work on:
 
-</div>
+* 📊 **Academic Tools** (e.g. student average calculators, utilities)
+* ⚙️ **Embedded Systems Projects** (microcontroller-based systems)
+* 🌐 **Web Applications** (frontend + backend basics)
+* 🔌 **IoT Concepts & Experiments**
+
+> I focus on building projects that solve real problems and improve my engineering skills.
+
+---
+
+## 📚 Currently Learning
+
+* Advanced system design
+* Embedded systems development (STM32 ecosystem)
+* Backend architecture and APIs
+* IoT systems and communication protocols
+
+---
+
+## 🎯 Objectives
+
+* Develop strong expertise in **systems engineering and software development**
+* Build projects that combine **software + hardware integration**
+* Improve problem-solving and architecture skills
+* Prepare for professional roles in **Software Engineering / Embedded Systems / IoT**
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/yourusername
+* LinkedIn: (add your link)
+
+---
+
+⭐ *Always learning, building, and improving.*
