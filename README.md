@@ -88,24 +88,12 @@ I'm a Computer Science student passionate about building clean, functional mobil
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 I'm open to internship opportunities, collaborations, and project feedback.
 
-- 📧 **Email:** your.email@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- 🐦 **Twitter/X:** [@your-handle](https://twitter.com/your-handle) *(optional)*
+- 📧 **Email:** ibrahim.sbouai@isimg.tn
+- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](www.linkedin.com/in/ibrahim-sbouai-78ba8a365)
 
 ---
 
